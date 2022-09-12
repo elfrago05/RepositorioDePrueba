@@ -31,3 +31,11 @@ ndwndwidwidmwindwnddidnwidnndwjnwjnjwnwjnwnwnn
 [Google](http://www.google.com "Titulo Opcional")
 
 ![elbicho](https://github.com/elfrago05/RepositorioDePrueba/blob/main/images.jpg "imagen del bicho")
+
+| Titulo | Titulo 2 | Titulo 3 |
+|--------|:----------:|---------:|
+| Daniel | Fragoso | Álvarez |
+| Jordi | Nuevo | Claverias |
+| Col 3 | está alineada | derecha |
+| Col 2 | está alineada | centro |
+
